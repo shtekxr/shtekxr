@@ -1,16 +1,24 @@
-## Hi there 👋
+## 🚀 Обо мне
 
-<!--
-**shtekxr/shtekxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Сейчас изучаю **FastAPI**, **React** и **Tailwind CSS**.
+- 🔭 Работаю над проектом **all_in_ai**.
+- 💬 Спрашивай меня про **Python**, **Docker**, **AI** и **PWA**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Технологии и инструменты
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+---
+
+## 📊 GitHub Статистика
+![Статистика](https://github-readme-stats.vercel.app/api?username=shtekxr&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔗 Контакты
+[![Telegram](https://img.shields.io/badge/-Telegram-1E90FF?style=flat&logo=telegram)](https://t.me/shtekxr)
