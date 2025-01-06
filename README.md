@@ -15,10 +15,5 @@
 
 ---
 
-## 📊 GitHub Статистика
-![Статистика](https://github-readme-stats.vercel.app/api?username=shtekxr&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔗 Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-1E90FF?style=flat&logo=telegram)](https://t.me/shtekxr)
